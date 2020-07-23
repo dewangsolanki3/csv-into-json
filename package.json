@@ -1,0 +1,15 @@
+{
+  "name": "csv-into-json",
+  "version": "1.0.37",
+  "description": "",
+  "main": "index.js",
+  "keywords": [
+    "csv",
+    "json",
+    "parse",
+    "fs",
+    "csvPath"
+  ],
+  "author": "Dewang Solanki",
+  "license": "MIT"
+}
